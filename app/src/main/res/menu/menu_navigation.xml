@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sidemenu"
+        android:title=""
+        android:icon="@drawable/ic_sidemenufeher"/>
+
+    <item
+        android:id="@+id/home"
+        android:title=""
+        android:icon="@drawable/ic_idezetfeher"/>
+
+    <item
+        android:id="@+id/challenges"
+        android:title=""
+        android:icon="@drawable/ic_challengefeher"/>
+
+    <item
+        android:id="@+id/fiveminread"
+        android:title=""
+        android:icon="@drawable/ic_baseline_menu_book_24"/>
+
+</menu>
